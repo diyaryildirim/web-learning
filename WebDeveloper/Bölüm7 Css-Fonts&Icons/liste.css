@@ -1,0 +1,10 @@
+ul {
+    background-color: red;
+    padding: 20px;
+}
+
+li {
+    background-color: bisque;
+    padding: 10px;
+    margin-top: 5px;
+}

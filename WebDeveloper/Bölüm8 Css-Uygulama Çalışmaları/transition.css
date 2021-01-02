@@ -1,0 +1,34 @@
+.card {
+    width: 150px;
+    height: 150px;
+    background: gray;
+    transition: width 1s, height 1s, background 1s;
+    -webkit-transition: width 1s, height 1s, background 1s;
+    -moz-transition: width 1s, height 1s, background 1s;
+    margin-bottom: 10px;
+
+}
+
+.card:hover {
+    width: 250px;
+}
+
+#card1 {
+    transition-timing-function: ease;
+}
+
+#card2 {
+    transition-timing-function: linear;
+}
+
+#card3 {
+    transition-timing-function: ease-in;
+}
+
+#card4 {
+    transition-timing-function: ease-out;
+}
+
+#card5 {
+    transition-timing-function: ease-in-out;
+}

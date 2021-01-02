@@ -1,0 +1,15 @@
+body{
+    width: 700px;
+    margin: 30px auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 22px;
+}
+.bold{
+    font-weight: 100px;
+}
+p{
+    font-size: 22px;
+    line-height: 150%;
+    word-spacing: 3px;
+    text-indent: 2opx;
+}
