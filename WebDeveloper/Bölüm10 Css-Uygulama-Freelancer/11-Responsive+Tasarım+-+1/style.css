@@ -18,7 +18,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
-	font-family: Montserrat;
+	font-family: Montserrat, serif;
 }
 
 a {
@@ -135,7 +135,7 @@ section {
 
 nav {
 	width: 100%;
-	font-family: Montserrat;
+	font-family: Montserrat, serif;
 	background-color: #2C3E50;
 	color: #fff;
 	padding-top: 2.4rem;
@@ -196,7 +196,7 @@ header h1 {
 header h2 {
 	color: #fff;
 	font-size: 2.8rem;
-	font-family: 'Lato';
+	font-family: 'Lato', serif;
 	font-weight: 300;
 }
 
@@ -229,7 +229,7 @@ hr.star-dark {
 
 .star-light::after, .star-dark::after {
 	content: "\f005";
-	font-family: "Font Awesome 5 Free";
+	font-family: "Font Awesome 5 Free", serif;
 	font-weight: 900;
 	font-size: 3.2rem;
 	position: relative;
@@ -282,7 +282,6 @@ hr.star-dark {
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
-
 
 .portfolio-item:hover .img-overlay {
 	opacity: 0.8;
@@ -383,18 +382,6 @@ footer li {
 	color: #fff;
 	text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

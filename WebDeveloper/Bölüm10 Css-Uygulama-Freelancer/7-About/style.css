@@ -244,12 +244,16 @@ hr.star-dark {
 #about-text .text{
 	font-size: 2rem;
 }
+#button-container .buttonbox{
+	padding: 15px;
+	margin: 10px;
+}
 
-
-
-
-
-
+#button-container .button{
+	text-align: center;
+	padding: 15px;
+	margin: 15px;
+}
 
 
 
