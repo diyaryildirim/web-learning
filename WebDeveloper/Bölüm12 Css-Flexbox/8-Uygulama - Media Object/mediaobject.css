@@ -1,0 +1,26 @@
+.media{
+    display: flex;
+    align-items: flex-start;
+    background-color: #faebd7;
+    padding: 16px;
+    max-width: 500px;
+    border-radius: 3px;
+    margin: 20px;
+}
+
+.media-object{
+    width: 100px;
+    margin-right: 16px;
+}
+
+.media-heading{
+    margin: 0 0 8px;
+}
+
+.img-right{
+    order: 1;
+}
+
+.media-inner{
+    margin-left: 0;
+}
