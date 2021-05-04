@@ -296,10 +296,6 @@ hr.star-dark {
 }
 
 /*contact*/
-
-#contact {
-}
-
 #contact h2 {
 	font-size: 4.8rem;
 	color: #2C3E50;
@@ -308,8 +304,6 @@ hr.star-dark {
 #contact-form {
 	width: 70%;
 	margin: 0 auto;
-	
-	
 	text-align: left;
 }
 
