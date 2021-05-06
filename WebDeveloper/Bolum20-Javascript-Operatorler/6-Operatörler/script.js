@@ -8,7 +8,6 @@ let   d=3;
 
 // 1- Aritmetik Operatörler
 
-val = a+b;
 val = a-b;
 val = a*b;
 val = a/b;
