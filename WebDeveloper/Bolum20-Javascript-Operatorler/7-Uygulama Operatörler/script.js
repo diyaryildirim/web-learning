@@ -99,9 +99,9 @@ console.log(IndexAda.toFixed(2),IndexCan.toFixed(3));
 let adaHigherIndex = IndexAda>IndexCan;
 let canHigherIndex = IndexCan>IndexAda;
 
-console.log("Ada'nın kilo indeksi can'ın kilo indeksinden daha büyük : "+adaHigherIndex);
+console.log("Ada'nın kilo indeksi can'ın kilo indeksinden daha büyük : "+ adaHigherIndex);
 
-console.log("Can'ın kilo indeksi ada'nın kilo indeksinden daha büyük : "+canHigherIndex);
+console.log("Can'ın kilo indeksi ada'nın kilo indeksinden daha büyük : "+ canHigherIndex);
 
 let AdaZayif = (IndexAda>=0) && (IndexAda<=18.4);
 let AdaNormal = (IndexAda>=18.5) && (IndexAda<=24.9);
