@@ -100,7 +100,6 @@ let adaHigherIndex = IndexAda>IndexCan;
 let canHigherIndex = IndexCan>IndexAda;
 
 console.log("Ada'nın kilo indeksi can'ın kilo indeksinden daha büyük : "+ adaHigherIndex);
-
 console.log("Can'ın kilo indeksi ada'nın kilo indeksinden daha büyük : "+ canHigherIndex);
 
 let AdaZayif = (IndexAda>=0) && (IndexAda<=18.4);
