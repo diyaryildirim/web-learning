@@ -111,8 +111,3 @@ console.log("Ada zayıf :"+AdaZayif);
 console.log("Ada'nın kilosu normal : "+AdaNormal);
 console.log("Ada kilolu mu : "+AdaKilolu);
 console.log("Ada şişman mı : "+AdaSisman);
-
-
-
-
-
