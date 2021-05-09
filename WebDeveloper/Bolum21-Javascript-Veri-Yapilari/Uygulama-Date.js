@@ -11,8 +11,12 @@ var dtA =new Date('8/24/2020');
 console.log(dtA);
 
 //1/1/1990 tarihinhden bir gün öncesini gösteriniz.
-var dtC = new Dat('1/1/1990');
-var 
+const dtC = new Date('1/1/1990');
+var dayOfMonth = dtC.getDate();
+dtC.setDate(dayOfMonth-1);
 
+console.log(dtC);
 
-    console.log(dtC);
+// iki tarih arasındaki geçen zamanı bulunuz.
+const start = new Date('1/1/1990');
+const end = new Date('1/1/1991');
