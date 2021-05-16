@@ -23,16 +23,16 @@ val = val.toUpperCase();
 val = val.toLowerCase();
 
 // string replace
-val = '  '+val.replace('sadik','çınar')+'     ';
+//val = '  '+val.replace('sadik','çınar')+'     ';
 
 // trim
 val = val.trim();
 
 // substring 
-// val = val.substring(3,8);
+//val = val.substring(3,8);
 
 // slice
-// val = val.slice(6); 
+val = val.slice(6);
 
 //val = val.indexOf('x');
 

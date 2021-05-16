@@ -1,4 +1,4 @@
-// Demo : Strings
+ // Demo : Strings
 
 var sentence = "  Template Literals or template strings is the ability Have multi-line strings without any funny business. ";
 
