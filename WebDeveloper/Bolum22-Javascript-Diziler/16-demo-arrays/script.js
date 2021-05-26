@@ -71,7 +71,7 @@ console.log(arr3);
 // console.log(arr3.pop());
 
 // console.log(arr3.splice(6,2));
-/*console.log(arr3.slice(6,8));
+/* console.log(arr3.slice(6,8));
 
 console.log(arr3);
 */
