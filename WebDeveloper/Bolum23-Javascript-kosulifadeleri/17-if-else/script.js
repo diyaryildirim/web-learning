@@ -32,19 +32,20 @@ const school = 'university';
 //     console.log('ehliyet alamazsınız');
 // }
 
-
-// if (age > 0  && age<12 ){
-//     console.log(`${firstName} is a child`);
-// }else if (age >=13 && age <=19){
-//     console.log(`${firstName} is a teenager`);
-// }else{
-//     console.log(`${firstName} is an adult`);
-// }
-
+if (age > 0  && age<12 ){
+     console.log(`${firstName} is a child`);
+}
+else if (age >=13 && age <=19){
+     console.log(`${firstName} is a teenager`);
+}
+else{
+    console.log(`${firstName} is an adult`);
+}
 //undefined
 
 if (typeof id !== 'undefined'){
     console.log('id: '+id);
-}else{
+}
+else{
     console.log('no id');
 }
