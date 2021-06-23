@@ -18,7 +18,7 @@
 
 
 var result = prompt("who's there ? ");
-
+var result = prompt("")
 if(result == 'cancel'){
     console.log('cancelled');
 }else if(result == 'Admin'){   
