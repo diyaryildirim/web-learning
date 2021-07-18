@@ -13,6 +13,7 @@ let person = {
     },
     getBirthYear : function(){
         return 2018- this.age;
+
     }
 };
 
